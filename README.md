@@ -1,4 +1,4 @@
-# Proyecto-Git;
+# Proyecto-Git
 ***
 fork of the proyect = [git@github.com:DyegoCosta/snake-game.git](https://github.com/Dyssio/snake-game)
 ***
