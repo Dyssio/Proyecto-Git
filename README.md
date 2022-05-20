@@ -2,11 +2,11 @@
 ***
 fork of the proyect = [git@github.com:DyegoCosta/snake-game.git](https://github.com/Dyssio/snake-game)
 ***
-Descripción = Repositorio para jugar al Snake, escrito en lenguaje Linux, bash
+Descripción = Repositorio para jugar al Snake.
 
-Fecha de creación = 25/oct/2018
+Fecha de creación = 25/oct/2018.
 
-Lenguaje de programación utilizado = Bash
+Lenguaje de programación utilizado = Linux, bash.
 
 Número de aportes= de Ideas : 7 | de Código : 4
 
